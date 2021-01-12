@@ -1,0 +1,7 @@
+              Winner/tie                 Loser/tie  Year
+273    Indianapolis Colts             Buffalo Bills  2020
+274      Los Angeles Rams          Seattle Seahawks  2020
+275  Tampa Bay Buccaneers  Washington Football Team  2020
+276      Baltimore Ravens          Tennessee Titans  2020
+277         Chicago Bears        New Orleans Saints  2020
+278      Cleveland Browns       Pittsburgh Steelers  2020
